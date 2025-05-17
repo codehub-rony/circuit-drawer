@@ -1,9 +1,12 @@
 # ESP8266
+[Board documentation](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/)
+## Deep sleep
+_see_: [deep sleep](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
 
-#### [Deep sleep](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
+- Built in timer can be used by connecting **REST** to **D0** (**GPIO16**).
 
-- Built in timer can be used by connecting **REST** to **D0** (**GPIO16**)
+## Pinout
 
-#### [Pinout](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
+_see_: [pinout](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios)
 
 ![esp8266 pinout](https://github.com/codehub-rony/circuit-drawer/blob/main/boards/ESP8266/ESP8266_pinout.png)
