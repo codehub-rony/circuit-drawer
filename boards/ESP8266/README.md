@@ -6,4 +6,4 @@
 
 #### [Pinout](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
 
-![esp8266 pinout]()
+![esp8266 pinout](https://github.com/codehub-rony/circuit-drawer/blob/main/boards/ESP8266/ESP8266_pinout.png)
