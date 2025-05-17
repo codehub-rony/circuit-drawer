@@ -1,3 +1,3 @@
-### Adafruit BMP280
+### Sensors
 
-[Wiring, tutorial and docs](https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout/arduino-test)
+Folder contains a library of sensors with notes, wiring diagrams and example code for quick reference.
