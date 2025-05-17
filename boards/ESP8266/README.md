@@ -4,6 +4,7 @@
 _see_: [deep sleep](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
 
 - Built in timer can be used by connecting **REST** to **D0** (**GPIO16**).
+- Move code to `setup()` and set to sleep for example for 10 seconds: `ESP.deepSleep(10e6)` 
 
 ## Pinout
 
