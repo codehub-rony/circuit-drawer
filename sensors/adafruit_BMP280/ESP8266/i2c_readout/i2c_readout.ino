@@ -8,7 +8,6 @@ void setup() {
     Serial.begin(9600);
     Wire.begin(D2, D1); // SDA, SCL — for ESP8266 (NodeMCU)
 
-
     if (!bmp.begin(0x76)) {
       if (!bmp.begin(0x77)) {
         Serial.println("Could not find BMP280 at 0x76 or 0x77");
